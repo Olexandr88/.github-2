@@ -1,6 +1,13 @@
-## Morpho
+
+<img width="1500" alt="Banner-Morpho-4" src="https://github.com/morpho-org/.github/assets/44097430/5bbdee3d-28f1-4b58-99ca-f7ed1cbd1570">
+
+---
+
+### Morpho GitHub
 
 Welcome to the Morpho GitHub! This is the place where you'll find all Morpho related codebases.
+
+---
 
 ### Getting Started
 
@@ -12,6 +19,8 @@ Morpho welcomes external contributions. To get started you can checkout the foll
 - [universal-rewards-distributor](https://github.com/morpho-org/universal-rewards-distributor): Contracts to easily distribute incentives on Morpho Blue's markets.
 - [morpho-optimizers](https://github.com/morpho-org/morpho-optimizers): The first version of Morpho on top of AaveV2 and CompoundV2.
 - [morpho-aavev3-optimizer](https://github.com/morpho-org/morpho-aavev3-optimizer): The first version of Morpho on top of AaveV3.
+
+---
 
 ### Additional Resources
 
