@@ -22,6 +22,11 @@ Morpho welcomes external contributions. To get started you can checkout the foll
 
 ---
 
+Offchain contributions:
+- [morpho-blue-subgraph](https://github.com/morpho-org/morpho-blue-subgraph): Morpho Blue subgraph that is indexing Blue lending protocol data
+
+---
+
 ### Additional Resources
 
 - [Website](https://morpho.org/)
