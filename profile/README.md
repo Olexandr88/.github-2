@@ -32,7 +32,7 @@ Offchain contributions:
 ### Additional Resources
 
 - [Website](https://morpho.org/)
-- [Twitter](https://twitter.com/MorphoLabs)
+- [X (Twitter)](https://x.com/MorphoLabs)
 - [Documentation](https://docs.morpho.org/)
 - [Bug Bounty](https://immunefi.com/bounty/morpho/)
 - [Discord](https://discord.morpho.org/)
