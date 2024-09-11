@@ -11,7 +11,7 @@ Welcome to the Morpho GitHub! This is the place where you'll find all Morpho rel
 
 ### Getting Started
 
-Morpho welcomes external contributions. To get started you can checkout the following repositories:
+[Morpho](https://morpho.org/) welcomes external contributions. To get started you can checkout the following repositories:
 - [morpho-blue](https://github.com/morpho-org/morpho-blue): Morpho Blue, the most secure, efficient and flexible lending protocol on Ethereum.
 - [morpho-blue-irm](https://github.com/morpho-org/morpho-blue-irm): Interest Rate Models that can be used by Morpho Blue.
 - [morpho-blue-oracles](https://github.com/morpho-org/morpho-blue-oracles): Oracles that can be used by Morpho Blue.
